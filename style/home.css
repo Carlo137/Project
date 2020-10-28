@@ -1,0 +1,30 @@
+body {
+    background-color: #2A2D40;
+    margin: 0px;
+}
+
+.navbar {
+    background-color: #131826;
+}
+
+.logo,
+.link,
+.ricerca {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.logo {
+    float: left;
+}
+
+.link {}
+
+.ricerca {
+    float: right;
+}
+
+.serch {
+    border: 0px;
+    outline: none;
+}
